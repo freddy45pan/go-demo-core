@@ -1,1 +1,1 @@
-# go-demo-module
+# go-demo-core
